@@ -1,0 +1,4 @@
+8] Create a search bar that 
+displays live search result as a user type,
+updating the results  without requiring a full
+page relode. 

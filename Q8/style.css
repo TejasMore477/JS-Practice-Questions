@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+}
+main{
+    height: 100%;
+    width: 100%;
+    background-color: #dadada;
+}
+.container{
+    padding: 6vw 12vw;
+}
+input{
+    width: 100%;
+    padding: 1.2vw 2vw;
+    border: 1px solid #dadada;
+    outline-color: rgb(199, 209, 224);
+    border-radius: 20px;
+    font-size:15px ;
+    font-weight: 600;
+}
+.people{
+    display: flex;
+    gap:20px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.person{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img{
+    height: 9vw;
+    width: 9vw;
+    border-radius: 50%;
+}
+.img img{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: top;
+}

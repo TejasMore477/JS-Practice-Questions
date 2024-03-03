@@ -1,0 +1,3 @@
+9] built a character counter for a text search
+area or input fild, which updates in real time
+when user types and enforces a character  limit.

@@ -1,0 +1,3 @@
+3] Create a form with input fields and a submit button.
+use Javascript to validate the form and display an 
+error message if any of the input is invalid.
